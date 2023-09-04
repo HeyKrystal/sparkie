@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: sparkie.Main
+Class-Path: jetty-io-9.4.31.v20200723.jar websocket-servlet-9.4.31.v2020
+ 0723.jar slf4j-api-1.7.25.jar spark-core-2.9.3.jar jetty-servlet-9.4.31
+ .v20200723.jar jetty-client-9.4.31.v20200723.jar gson-2.9.0.jar websock
+ et-api-9.4.31.v20200723.jar jetty-server-9.4.31.v20200723.jar jetty-uti
+ l-9.4.31.v20200723.jar jetty-webapp-9.4.31.v20200723.jar javax.servlet-
+ api-3.1.0.jar websocket-client-9.4.31.v20200723.jar websocket-server-9.
+ 4.31.v20200723.jar commons-io-2.11.0.jar jetty-xml-9.4.31.v20200723.jar
+  websocket-common-9.4.31.v20200723.jar jetty-http-9.4.31.v20200723.jar 
+ jetty-security-9.4.31.v20200723.jar
+
